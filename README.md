@@ -1,0 +1,2 @@
+# Scripthack
+Hack
